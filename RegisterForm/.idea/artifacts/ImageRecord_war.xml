@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ImageRecord:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ImageRecord-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ImageRecord:war exploded" />
+    </root>
+  </artifact>
+</component>
