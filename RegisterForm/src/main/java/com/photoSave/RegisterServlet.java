@@ -18,7 +18,7 @@ import java.sql.SQLException;
  */
 @WebServlet("/uploadServlet")
 @MultipartConfig(maxFileSize = 16177215)
-public class PhotoServlet extends HttpServlet {
+public class RegisterServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
